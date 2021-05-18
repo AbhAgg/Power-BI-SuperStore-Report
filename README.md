@@ -1,3 +1,3 @@
 # Power-BI-SuperStore-Report
 
- <img align="right" src="https://komarev.com/ghpvc/?username=abhagg&label=Profile%20views&color=brightgreen" alt="abhagg" />
+ <img align="right" src="https://github.com/AbhAgg/Power-BI-SuperStore-Report/blob/main/SuperStore%20Profit%20Report.PNG" alt="abhagg" />
